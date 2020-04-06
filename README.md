@@ -1,3 +1,10 @@
-# ex1_ML
+# Introduction to Machine Learning
 
-### First programming challenge for Andrew Ng's Introduction to Machine Learning Course through Stanford
+
+### Intro
+This repository contains the code used to solve coding problems throughout the course
+
+### Contents
+* ex1: Introduction to gradient descent and linear regression
+* ex2: Introduction to logistic regression and regularization
+
