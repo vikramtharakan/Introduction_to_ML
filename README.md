@@ -9,3 +9,4 @@ This repository contains the code used to solve coding problems throughout the c
 * ex2: Introduction to logistic regression and regularization
 * ex3: Multi-class classification and introduction to neural networks
 * ex4: Training neural networks using backwards propogation
+* ex5: Understanding learning curves
