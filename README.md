@@ -10,4 +10,4 @@ This repository contains the code used to solve coding problems throughout the c
 * ex3: Multi-class classification and introduction to neural networks
 * ex4: Training neural networks using backwards propogation
 * ex5: Understanding learning curves
-* ex5: Introduction to Support Vector Machines
+* ex6: Introduction to Support Vector Machines
