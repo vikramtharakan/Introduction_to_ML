@@ -11,3 +11,4 @@ This repository contains the code used to solve coding problems throughout the c
 * ex4: Training neural networks using backwards propogation
 * ex5: Understanding learning curves
 * ex6: Introduction to Support Vector Machines
+* ex7: Clustering and introduction to PCA
