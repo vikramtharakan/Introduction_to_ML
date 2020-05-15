@@ -12,3 +12,4 @@ This repository contains the code used to solve coding problems throughout the c
 * ex5: Understanding learning curves
 * ex6: Introduction to Support Vector Machines
 * ex7: Clustering and introduction to PCA
+* ex8: Anomoly Detection and Recommendation Systems
